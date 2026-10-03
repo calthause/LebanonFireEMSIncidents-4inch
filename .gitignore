@@ -8,3 +8,5 @@ build_log.txt
 build_output.txt
 
 *.bin
+# ...except the firmware image served by the web flasher
+!docs/*.bin
