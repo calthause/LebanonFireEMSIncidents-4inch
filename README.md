@@ -1,5 +1,4 @@
-<img width="2016" height="1512" alt="image1 (4)" src="https://github.com/user-attachments/assets/e382f330-f86e-4962-9d42-57f8184a64a0" />
-<img width="2016" height="1512" alt="image0 (6)" src="https://github.com/user-attachments/assets/5b89b1a9-34c4-4c65-b36d-72edf6c96cb8" />
+
 # Fire & EMS Incidents
 
 A minimal PlatformIO project for ESP32 with CYD display.
@@ -10,7 +9,8 @@ https://a.co/d/0cNrjnoy
 
 Repository for the 4" CYD used
 https://github.com/Freenove/Freenove_ESP32_Display
-
+<img width="2016" height="1512" alt="image1 (4)" src="https://github.com/user-attachments/assets/e382f330-f86e-4962-9d42-57f8184a64a0" />
+<img width="2016" height="1512" alt="image0 (6)" src="https://github.com/user-attachments/assets/5b89b1a9-34c4-4c65-b36d-72edf6c96cb8" />
 ## Screenshots
 
 Drop image files into `images/` and reference them here, e.g.:
