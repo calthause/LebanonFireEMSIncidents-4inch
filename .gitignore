@@ -6,3 +6,5 @@
 
 build_log.txt
 build_output.txt
+
+*.bin
