@@ -4,6 +4,12 @@
 A minimal PlatformIO project for ESP32 with CYD display.
 CYD used is the dual USB model
 
+## Web Flasher
+
+Flash the firmware to your display straight from Chrome or Edge — no tools to install:
+
+**https://calthause.github.io/LebanonFireEMSIncidents-4inch/**
+
 Amazon link for the 4" CYD Board with exposed SPI
 https://a.co/d/0cNrjnoy
 
