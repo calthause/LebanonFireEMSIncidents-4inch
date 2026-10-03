@@ -6,6 +6,3 @@
 
 build_log.txt
 build_output.txt
-
-# Local merged flash images (regenerate with pio run + merge script)
-*.bin
