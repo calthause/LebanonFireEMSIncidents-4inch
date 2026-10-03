@@ -3,6 +3,9 @@
 A minimal PlatformIO project for ESP32 with CYD display.
 CYD used is the dual USB model
 
+Amazon link for the 4" CYD Board with exposed SPI
+https://a.co/d/0cNrjnoy
+
 ## Screenshots
 
 Drop image files into `images/` and reference them here, e.g.:
